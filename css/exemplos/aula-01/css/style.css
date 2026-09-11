@@ -1,0 +1,35 @@
+/* 
+Para chamar um id eu uso #
+Para chamar uma classe eu uso  ponto = (.)
+*/
+
+
+/*.exemplo_botao {
+    font-size: 20px;
+    width: 10%;
+    padding: 10px 24px;
+    color: #fafafa;
+    background: #9400D3;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-weight: 100;
+}*/
+
+h6 {
+    font-size: 32px; /* Mexer no tamanho do titulo*/
+}
+
+h1 {
+    color: rebeccapurple;
+
+
+}
+
+.red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
