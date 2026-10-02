@@ -6,6 +6,8 @@ header {
     background-color: antiquewhite;
     border: red 2px solid;
     padding: 5px;
+    color: white;
+    position: relative;
 }
 
 h1 {
@@ -40,9 +42,8 @@ h2 {
 }
 
 .posicao{
-    display: inline-block;
     background-color: white;
+    display: inline-block;
     width: 30px;
-    position: relative;
-    left: 50px;
+    position: absolute;
 }
