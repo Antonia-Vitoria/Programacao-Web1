@@ -1,23 +1,23 @@
-body{
+body {
     background-color: darkgray;
 }
 
-header{
+header {
     background-color: antiquewhite;
     border: red 2px solid;
     padding: 5px;
 }
 
-h1{
+h1 {
     margin-top: 0px;
 }
 
-nav{
+nav {
     display: flex;
     justify-content: center;
 }
 
-.whats{
+.whats {
     border: 4px solid green;
     background-color: greenyellow;
     color: rgb(0, 70, 0);
@@ -31,4 +31,18 @@ nav{
     position: fixed;
     right: 5px;
     bottom: 5px;
+}
+
+h2 {
+    border: purple 2px solid;
+    position: sticky;
+    top: 0px;
+}
+
+.posicao{
+    display: inline-block;
+    background-color: white;
+    width: 30px;
+    position: relative;
+    left: 50px;
 }
