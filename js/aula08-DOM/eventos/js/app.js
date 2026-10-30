@@ -14,8 +14,8 @@ let blackDiv = document.getElementById('caixa')
 
 function mudarCor() {
     blackDiv.style.backgroundColor = "red"
-    //console.log(blackDiv)
+
 }
-function mudarCorSaida(){
+function mudarCorSaida() {
     blackDiv.style.backgroundColor = "green"
 }
